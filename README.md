@@ -30,11 +30,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+1. The fabCreateMap need to initialize
+2. More complicated structure than last assignment
+3. Pretty cool project!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Meng-Jin Lin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
